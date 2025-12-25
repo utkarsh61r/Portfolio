@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="1897" height="919" alt="image" src="https://github.com/user-attachments/assets/b553ce6e-5e1b-429a-938f-f755b3c9a745" />
+
 
 🌐 Personal Portfolio Website
 
